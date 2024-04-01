@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <h1>My Audio library</h1>
+     <p> Sweethearts </p>  
+     
+    <audio controls autiplay muted loop>
+        <source src = "/audio/Sweethearts - TrackTribe.mp3">
+
+    </audio>
+    
+
+    </body>
+    </head>
+</html>
